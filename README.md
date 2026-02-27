@@ -141,7 +141,8 @@ Debugging sırasında kontrol edin:
 ## 📦 Versiyon
 
 **Sürüm**: 1.0  
-**Son Güncelleme**: Şubat 2026
+**Son Güncelleme**: Şubat 2026  
+**Aktif Gün**: Cuma (27 Şubat 2026)
 
 ---
 
